@@ -1,0 +1,14 @@
+# OpenClaw
+.openclaw/
+.skills/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Memory (个人隐私，建议不提交)
+# memory/
+
+# 临时文件
+*.tmp
+*.log
